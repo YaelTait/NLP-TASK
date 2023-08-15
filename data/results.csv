@@ -1,0 +1,91 @@
+Question,Similarity,Metric
+industry blend roas 7 day,1.0,ROAS
+industry facebook cpm 7 day grouping,1.0,CPM
+industry blend roas yesterday,1.0,ROAS
+competitor ncpa yesterday,0.86,CPA
+recur expence custom spend amont   10009,0.71,MER
+ltv new customer purchase jan 2023 come fb order,0.76,MER
+ltv new customer purchase jan 2023 come fb order break week,0.76,MER
+avg day second order new customer purchase jan 2023 people come fb order,0.76,MER
+avg day second order new customer purchase jan 2023 people order product contain knot case insensitive order come fb,0.76,MER
+people come fb purchase knot order dec 2022 product purchase 3 order,0.76,MER
+ltv new customer purcase jan 2023 come fb order break week,0.71,MER
+lifetime value new customer purchase jan 2023 discount code firstorder break month,0.76,MER
+source klaviyo signup obtain,0.71,MER
+click spend week,0.75,MER
+cpc impression break week past 2 month,1.0,CPC
+comparison cpm week vs week,1.0,CPM
+ctr week past month,1.0,CTR
+overview click month past quarter,0.76,MER
+trend impression year break month,0.72,MER
+click impression receive december 2021,0.71,MER
+day feb 2023 impression cpc,1.0,CPC
+mean mode median order value 90 day,0.76,MER
+ltv new customer purchase jan 2023   discount code order,0.76,MER
+ltv new customer purchase jan 2023 tag order,0.76,MER
+ltv new customer purchase jan 2023 knot purchase,0.77,MER
+  new customer purchase order jan 2023 reorder 3 month,0.76,MER
+avg day second order new customer purchase jan 2023,0.76,MER
+avg day second order new customer purchase jan 2023,0.76,MER
+people purchase knot order dec 2022 product purchase 3 order,0.76,MER
+life tim value new customer purchase jan 2023 discount code order break month,0.76,MER
+ltv new customer purchase jan 2023 tag order break week,0.76,MER
+avg time secend order new customer purchase jan 2022,0.76,MER
+avg time secend order new customer purchase jan 2022,0.76,MER
+people purchase knot order     dec 2022 product purchase 3 order  ,0.76,MER
+time 1st 2nd purchase sku cohort,0.8,MER
+time 1st 2nd purchase sku,0.8,MER
+s mean median mode aov 2nd 3rd order,1.0,AOV
+product drive repeat purchase timeframe,0.79,MER
+aov june,1.0,AOV
+reorder rate   customer acquire april,0.79,MER
+country customer buy product,0.71,MER
+popular tag customer new york state base datum past 4 week,0.73,MER
+blended roas 90 day,1.0,ROAS
+ncpa 30 day,0.86,CPA
+blended cpa week,1.0,CPA
+blend ncroas week,0.8,MER
+customer start facebook click google ad buying aov 90 day,1.0,AOV
+conversion rate channel yesterday,0.71,MER
+spend sale roas 10 fb google campaign roas yesterday order roas spend,1.0,ROAS
+blended spend   pixel google roas month year,1.0,ROAS
+revenue day august 1 2022 october 31 2022 sale channel click datum,0.76,MER
+share table google campaign contain bus include total row table column spend triple pixel conversion value triple pixel roas rank campaign spend total datum yesterday,1.0,ROAS
+roas facebook ad today revenue facebook ad generate today,1.0,ROAS
+daily blend roas 7 day break day channel display line graph,1.0,ROAS
+s roas ad new customer channel,1.0,ROAS
+spend sale roas 10 fb google campaign roas yesterday order roas desc spend desc,1.0,ROAS
+channel low cpa week channel sumcpa   0,1.0,CPA
+channel low cpa week channel sumcpa   0 have clause,1.0,CPA
+aov fb 7 day,1.0,AOV
+ncpa fb 7 day,0.86,CPA
+customer start faceook click google ad buying aov 90 day,1.0,AOV
+meta purchase compare website fb 30 day,0.92,AOV
+facebook ad spend click 5 day break day order day desc,0.8,MER
+s fb spend revenue roas 7 day break attribution model,1.0,ROAS
+conversion rate channel 7 day rate decimal,0.71,MER
+meta purchase compare website fb week,0.92,AOV
+customer start faceook click google ad buying thi aov 90 day,1.0,AOV
+aov fb 7 day,1.0,AOV
+ncpa fb 7 day,0.86,CPA
+new customer conversion rate fb week,0.71,MER
+"avg time secend order new customer purchase jan 2022 people come fb 
+ order",0.76,MER
+"avg time secend order new customer purchase jan 2022 people order 
+ 1 come fb   2 purchase knot",0.78,MER
+people come fb order purchase knot order,0.76,MER
+product people come fb order purchase knot order purchase 3 order,0.76,MER
+new ad launch x channel 30 day ad target cpa,1.0,CPA
+love know 30 60 90 day roas ad,1.0,ROAS
+list unique customer email customer ids customer phone number participate survey respective survey type,0.73,MER
+list question answer ask customer post purchase survey month date include email,0.76,MER
+time lag touch point actual purchase,0.76,MER
+session order revenue aov conversion rate page yesterday,1.0,AOV
+session order revenue revenue visitor average order value aov conversion rate 50 page order revenue,0.83,AOV
+session order revenue average order value aov conversion rate page 14 day,0.83,AOV
+conversion rate landing page month,0.71,MER
+s average conversion rate online keycaps   keyboard webstore,0.71,MER
+session order revenue aov conversion rate 10 page yesterday rate decimal,1.0,AOV
+session order revenue aov bounce_rate avg page session avg session duration conversion rate break device yesterday rate decimal,1.0,AOV
+session order revenue aov bounce_rate avg page session avg session duration conversion rate break browser yesterday rate decimal 10 browser session order session desc browser asc,1.0,AOV
+session order revenue aov bounce_rate avg page session avg session duration conversion rate break city today rate decimal order session desc city asc limit 10,1.0,AOV
